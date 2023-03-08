@@ -1,0 +1,1 @@
+Hi this is a file that is hosted remotely in GitHub. The main aim of this text file is to help me fetch and full the text file into my Local git repo from my remote repo.
